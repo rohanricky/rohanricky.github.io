@@ -97,12 +97,17 @@ hr,
 /* Brand Colors */
 
 .t-title__first-word {
-    color: #939393;
+    color: #6b4383;
 }
 
-.t-title__second-word {
+/* .t-title__second-word {
     color: #1B0D7E;
+} */
+
+.t-title__second-word {
+    color: rgb(135, 54, 182);
 }
+
 
 .t-sub-title {
     color: #939393;
